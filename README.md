@@ -4,18 +4,16 @@ Workshop Surprise para a disciplina MATE65 (UFBA).
 ## Slides
 Os slides referentes a este workshop encontram-se [aqui](https://docs.google.com/presentation/d/1YMb5dVsi5_QiRqh8K7M4Pde2YrqsGuTgUHxCDD56F44).
 
-Para iniciar, clone este repositório utilizando o git:
-
-```
-git clone git@github.com:victormartinez/mate65.git
-```
-
 ## Requisitos:
 - Python 3
 - Docker & docker-compose (opcionais)
 
 ## Como executar este projeto?
-Existem duas formas possíveis: via docker ou seu ambiente python.
+Existem duas formas possíveis: via docker ou seu ambiente python. Antes de qualquer etapa é necessário baixar/clonar o repositório:
+
+```
+git clone git@github.com:victormartinez/mate65.git
+```
 
 ### Executando via Docker & docker-compose
 Uma vez instalado o [docker](https://www.docker.com/get-started) e o [docker-compose](https://docs.docker.com/compose/install/), você pode acessar o diretório do projeto utilizando um terminal e executar:
