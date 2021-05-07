@@ -1,6 +1,9 @@
 # MATE65 (UFBA) - Workshop Surprise
 Workshop Surprise para a disciplina MATE65 (UFBA).
 
+## Slides
+Os slides referentes a este workshop encontram-se [aqui](https://docs.google.com/presentation/d/1YMb5dVsi5_QiRqh8K7M4Pde2YrqsGuTgUHxCDD56F44).
+
 Para iniciar, clone este repositório utilizando o git:
 
 ```
