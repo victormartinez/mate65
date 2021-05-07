@@ -40,6 +40,5 @@ pip install -r requirements.txt
 
 jupyter notebook
 
-
 4. Abra o browser e acesse http://localhost:8888
 ```
