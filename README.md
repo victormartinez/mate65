@@ -43,3 +43,31 @@ jupyter notebook
 
 4. Abra o browser e acesse http://localhost:8888
 ```
+
+## Exercício
+
+```
+> ## Agora que você já viu como foi feito o procedimento, siga os passos abaixo: ##
+>
+> **1. Carregue o dataset do movielens.**
+> 
+> **2. Transforme em uma matriz R.**
+> 
+> **3. Escolha um id de usuário aleatório.**
+> 
+> **4. Para quais filmes esse usuário deu nota? (Apresente apenas os ids)**
+> 
+> **5. Para quais filmes esse usuário não deu nota? (Apresente apenas os ids)**
+> 
+> **6. Quantos % dos filmes esse usuário deu nota?**
+> 
+> **7. Apresente os títulos dos filmes que esse usuário deu nota.**
+> 
+> **8. Escolha um modelo de recomendação. Pode ser o SVD fique livre para escolher o que achar melhor (vide https://surprise.readthedocs.io/en/stable/prediction_algorithms_package.html)**
+> 
+> **9. Treine o modelo**
+> 
+> **10. Liste as predições**
+> 
+> **11. Liste as recomendações**
+```
